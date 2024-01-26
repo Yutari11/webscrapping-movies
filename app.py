@@ -16,7 +16,7 @@ import streamlit as st
 adresse_set_up = False
 
 st.set_page_config(
-    page_title="Projet 2 NLP ",
+    page_title="Projet Webscraping - Movie and screenings",
     page_icon="💻",
 )
 
